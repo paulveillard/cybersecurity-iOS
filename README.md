@@ -167,6 +167,8 @@
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing-and-license)
 
+**[`^        back to top        ^`](#)**
+
 
 ## Courses
 
@@ -190,6 +192,8 @@
 - [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 - [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
+
+**[`^        back to top        ^`](#)**
 ## Accessibility
 
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
@@ -201,6 +205,8 @@
 *Frameworks that help to support writing custom alexa skills in swift*
 
 - [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills.
+
+**[`^        back to top        ^`](#)**
 
 ## Analytics
 
@@ -221,6 +227,8 @@
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 - [Shake](https://www.shakebugs.com/) - In-app feedback and bug reporting tool. Fix app bugs up to 50x faster with detailed device data, repro steps, video recording, black box data, network requests and custom logging.
+
+**[`^        back to top        ^`](#)**
 
 ## App Routing
 
@@ -248,6 +256,8 @@
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 - [SwiftCurrent](https://github.com/wwt/SwiftCurrent) - A library for managing complex workflows.
 
+**[`^        back to top        ^`](#)**
+
 ## Apple TV
 
 *tvOS view controllers, wrappers, template managers and video players.*
@@ -266,6 +276,8 @@
 - [TvOSCustomizableTableViewCell](https://github.com/zattoo/TvOSCustomizableTableViewCell) - Light wrapper of UITableViewCell that allows extra customization for tvOS.
 - [TvOSSlider](https://github.com/zattoo/TvOSSlider) - TvOSSlider is an implementation of UISlider for tvOS.
 
+**[`^        back to top        ^`](#)**
+
 ## Architecture Patterns
 
 *Clean architecture, Viper, MVVM, Reactive... choose your weapon.*
@@ -283,6 +295,8 @@
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 - [Spin](https://github.com/Spinners/Spin.Swift) - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
 
+**[`^        back to top        ^`](#)**
+
 ## ARKit
 
 *Library and tools to help you build unparalleled augmented reality experiences*
@@ -295,6 +309,8 @@
 - [Placenote](https://github.com/Placenote/PlacenoteSDK-iOS) - A library that makes ARKit sessions persistent to a location using advanced computer vision.
 - [Poly](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – search and display 3D models.
 - [ARKit Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - The Emperor give you the most practical ARKit samples ever.
+
+**[`^        back to top        ^`](#)**
 
 ## Authentication
 
@@ -317,6 +333,8 @@
 - [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - (In)visible ReCaptcha for iOS.
 - [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to login and retrieve access token from LinkedIn.
 
+**[`^        back to top        ^`](#)**
+
 ## Blockchain
 
 *Tool for smart contract interactions. Bitcoin protocol implementations and Frameworks for interacting with cryptocurrencies.*
@@ -329,6 +347,8 @@
 - [CoinpaprikaAPI](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Coinpaprika API client with free & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
 - [Bitcoin-Swift-Kit](https://github.com/horizontalsystems/bitcoin-kit-ios) - Full Bitcoin library written on Swift. Complete SPV wallet implementation for Bitcoin, Bitcoin Cash and Dash blockchains.
 
+**[`^        back to top        ^`](#)**
+
 ## Bridging
 
 *Sharing code between Objective-C and Swift, iOS and macOS, Javascript and Objective-C.*
@@ -338,6 +358,8 @@
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS.
 - [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
+
+**[`^        back to top        ^`](#)**
 
 ## Cache
 
@@ -360,6 +382,8 @@
 - [Cachyr](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
 - [Cache](https://github.com/soffes/Cache) - Swift caching library.
 - [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
+
+**[`^        back to top        ^`](#)**
 
 ## Charts
 
@@ -397,6 +421,8 @@
 - [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
 - [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products.
 
+**[`^        back to top        ^`](#)**
+
 ## Code Quality
 
  *Quality always matters. Code checkers, memory vigilants, syntastic sugars and more.*
@@ -429,6 +455,8 @@
 - [Clue](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
 - [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - A Swift micro-framework to encapsulate `[weak self]` and `guard` statements within closures.
 
+**[`^        back to top        ^`](#)**
+
 ### Linter
 
 *Static code analyzers to enforce style and conventions.*
@@ -439,6 +467,8 @@
 - [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 - [SwiftLinter](https://github.com/muyexi/SwiftLinter) - Share lint rules between projects and lint changed files with SwiftLint.
 - [AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
+
+**[`^        back to top        ^`](#)**
 
 ## Color
 
@@ -463,6 +493,8 @@
 - [Gestalt](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
 - [SheetyColors](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
+**[`^        back to top        ^`](#)**
+
 ## Command Line
 
 *Smart, beautiful and elegant tools to help you create command line applications.*
@@ -477,6 +509,8 @@
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
 - [ModuleInterface](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
+
+**[`^        back to top        ^`](#)**
 
 ## Concurrency
 
@@ -497,6 +531,8 @@
 - [GroupWork](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
 - [StickyLocking](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.
 - [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+
+**[`^        back to top        ^`](#)**
 
 ## Core Data
 
@@ -522,6 +558,8 @@
 - [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift.
 - [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) - Write amazing, strong-typed and easy-to-read NSPredicate, allowing you to write flowable NSPredicate, without guessing attribution names, predicate operation or writing wrong arguments type.
 - [CloudCore](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+
+**[`^        back to top        ^`](#)**
 
 ## Database
 
@@ -577,6 +615,8 @@
 - [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 - [QuickDB](https://github.com/behrad-kzm/QuickDB) - Save and Retrieve any `Codable` in JUST ONE line of code + more easy usecases.
 - [ObjectBox](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+
+**[`^        back to top        ^`](#)**
 
 ## Data Structures / Algorithms
 
@@ -637,6 +677,8 @@
 - [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library.
 - [Schedule](https://github.com/luoxiu/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 
+**[`^        back to top        ^`](#)**
+
 ## Debugging
 
 *Debugging tools, crash reports, logs and console UI's.*
@@ -663,6 +705,8 @@
 - [Playbook](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it. 
 - [Atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
+
+**[`^        back to top        ^`](#)**
 
 ## EventBus
 
@@ -692,6 +736,8 @@
 - [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗 Swift Futures & Promises. Easy to use. Highly combinable.
 - [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic. (NotificationCenter extended alternative).
 
+**[`^        back to top        ^`](#)**
+
 ## Files
 
 *File management, file browser, zip handling and file observers.*
@@ -709,6 +755,8 @@
 - [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 - [AMSMB2](https://github.com/amosavian/AMSMB2) - Swift framework to connect SMB 2/3 shares for iOS.
 
+**[`^        back to top        ^`](#)**
+
 ## Functional Programming
 
 *Collection of Swift functional programming tools.*
@@ -724,6 +772,8 @@
 - [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift.
 - [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift.
 - [Bow](https://github.com/bow-swift/bow) - Typed Functional Programming companion library for Swift.
+
+**[`^        back to top        ^`](#)**
 
 ## Games
 - [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift.
@@ -750,6 +800,8 @@
 - [Chronos-Swift](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
 - [Me](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations.
 - [SwiftyTask](https://github.com/Albinzr/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure.
+
+**[`^        back to top        ^`](#)**
 
 ## Gesture
 
@@ -3220,6 +3272,8 @@ Most of these are paid services, some have free tiers.
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Ohmyswift](https://www.ohmyswift.com/blog/)
 
+**[`^        back to top        ^`](#)**
+
 
 ### UIKit references
 - [iOS Fonts](http://iosfonts.com/)
@@ -3227,6 +3281,8 @@ Most of these are paid services, some have free tiers.
 
 ### Forums and discuss lists
 - ["iOS" on Stackoverflow](https://stackoverflow.com/questions/tagged/ios)
+
+**[`^        back to top        ^`](#)**
 
 ### Tutorials and Keynotes
 - [AppCoda](https://www.appcoda.com/)
@@ -3256,16 +3312,22 @@ Most of these are paid services, some have free tiers.
 - [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
 - [Learn Swift](https://blog.coursesity.com/best-swift-tutorials/) - Learn Swift - curated list of the top online Swift tutorials and courses.
 
+**[`^        back to top        ^`](#)**
+
 ### iOS UI Template
 - [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 - [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 - [iOS GUI by Facebook Design Resources](https://facebook.design/)
+
+**[`^        back to top        ^`](#)**
 
 ### Prototyping
 - [FluidUI](https://www.fluidui.com)
 - [Proto.io](https://proto.io/)
 - [Framer](https://www.framer.com/)
 - [Principle](https://principleformac.com/)
+
+**[`^        back to top        ^`](#)**
 
 ### Newsletters
 - [AwesomeiOS Weekly](http://weekly.awesomeios.com) - AwesomeiOS Weekly.
@@ -3281,10 +3343,14 @@ Most of these are paid services, some have free tiers.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, WatchOS and AppleTV apps using Swift.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
 
+**[`^        back to top        ^`](#)**
+
 ### Medium
 - [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone.
 - [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language.
 - [Flawless App](https://medium.com/flawless-app-stories) - Development & design & marketing tips for iOS developers.
+
+**[`^        back to top        ^`](#)**
 
 ## Social Media
 
@@ -3293,6 +3359,8 @@ Most of these are paid services, some have free tiers.
 - [@CocoaPods](https://twitter.com/CocoaPods)
 - [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
 - [@RubyMotion](https://twitter.com/RubyMotion)
+
+**[`^        back to top        ^`](#)**
 
 ## Podcasts
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
@@ -3310,6 +3378,8 @@ Most of these are paid services, some have free tiers.
 - [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 
+**[`^        back to top        ^`](#)**
+
 ## Books
 - [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
 - [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
@@ -3325,6 +3395,8 @@ Most of these are paid services, some have free tiers.
 - [Core Data by Florian Kugler and Daniel Eggert](https://www.objc.io/books/core-data/)
 - [Classic Computer Science Problems in Swift](https://www.manning.com/books/classic-computer-science-problems-in-swift)
 - [Swift in Depth](https://www.manning.com/books/swift-in-depth)
+
+**[`^        back to top        ^`](#)**
 
 ## Other Awesome Lists
 
@@ -3359,6 +3431,8 @@ Most of these are paid services, some have free tiers.
 - [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 - [Top App Developers](https://github.com/app-developers/top) - A list of top iOS app developers.
 - [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
+
+**[`^        back to top        ^`](#)**
 
 
 ## License
